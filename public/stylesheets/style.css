@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.btn-warning {
+  color: #FFFFFF;
+}
+
+.fa-times-circle-o {
+  font-size: 22px;
+  color: #FDC02F;
+}
+
+.badge-warning {
+  color: #FFFFFF;
+}
+
+#map {
+  margin-top: 15px;
+  height: 400px;
+}
+
+.list-group {
+  padding-top: 14px;
+}
